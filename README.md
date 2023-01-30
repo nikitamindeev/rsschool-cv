@@ -1,2 +1,2 @@
 # rsschool-cv
-[Project]("https://nikitamindeev.github.io/rsschool-cv/cv")
+[Project]("nikitamindeev.github.io/rsschool-cv/cv")
